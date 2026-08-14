@@ -7,6 +7,12 @@ Model-agnostic Computer Use capability for [DeepSeek Harness](https://github.com
 - **License**: [MIT](LICENSE) — open source, free to use, modify, and redistribute.
 - **Platform**: the `windows` provider's native helper is **Windows-only** — the author has no macOS machine, so macOS support is not currently developed. The `playwright` browser provider and everything else are cross-platform.
 
+## Credits
+
+**1st version** — created using **DeepSeek-V4-Pro-0813** with **DeepSeek Harness**.
+
+Token usage: **223,443,625** tokens · **99% cache hit rate**.
+
 ## What it provides
 
 - A capability seam `ctx.computerUse` (`start` / `listTargets` / `observe` / `act` / `stop`).
