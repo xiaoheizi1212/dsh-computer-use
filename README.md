@@ -5,7 +5,8 @@ Model-agnostic Computer Use capability for [DeepSeek Harness](https://github.com
 ## Platform & License
 
 - **License**: [MIT](LICENSE) — open source, free to use, modify, and redistribute.
-- **Platform**: the `windows` provider's native helper is **Windows-only** — the author has no macOS machine, so macOS support is not currently developed. The `playwright` browser provider and everything else are cross-platform.
+- **Platform**: the `windows` provider's native helper is **Windows-only**; the `playwright` browser provider and everything else are cross-platform.
+- **macOS**: not currently developed — the author has no macOS environment. **Developers are welcome to contribute a macOS version.**
 
 ## Credits
 
